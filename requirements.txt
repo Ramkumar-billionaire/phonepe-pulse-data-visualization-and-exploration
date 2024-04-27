@@ -1,0 +1,5 @@
+Github
+Python
+MySql
+Plotly
+Streamlit
